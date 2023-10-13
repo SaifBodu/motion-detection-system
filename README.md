@@ -14,4 +14,5 @@ This repository contains a motion detection system implemented in Python using c
 
 - Python 3.x
 - OpenCV (cv2)
-- NumPy
+- Imutils
+- Tkinter

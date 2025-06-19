@@ -16,3 +16,19 @@ This repository contains a motion detection system implemented in Python using c
 - OpenCV (cv2)
 - Imutils
 - Tkinter
+
+📷 Motion Detection System using Python
+A real-time motion detection system using OpenCV in Python. This project captures video from a webcam or video file, processes it frame-by-frame, and detects any motion in the scene. When motion is detected, it can log the event, save frames, or trigger alerts.
+
+🔧 Features
+📹 Real-time video feed (webcam or video file)
+
+🕵️‍♂️ Motion detection using frame differencing
+
+📝 Timestamped motion logging
+
+💾 Save motion-detected frames or short clips
+
+🔔 (Optional) Alert mechanism (email, sound, etc.)
+
+⚙️ Simple and customizable Python code

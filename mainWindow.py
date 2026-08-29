@@ -4,6 +4,7 @@ Created on Thu Oct 12 01:13:55 2023
 
 @author: Saif
 """
+# imports
 import tkinter as tk
 from datetime import datetime
 from PIL import ImageTk, Image

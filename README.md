@@ -23,7 +23,7 @@ The Motion Detection System is a Python-based application that uses computer vis
 📷 Motion Detection System using Python
 A real-time motion detection system using OpenCV in Python. This project captures video from a webcam or video file, processes it frame-by-frame, and detects any motion in the scene. When motion is detected, it can log the event, save frames, or trigger alerts.
 
-🔧 Features
+🔧 Features:
 📹 Real-time video feed (webcam or video file)
 
 🕵️‍♂️ Motion detection using frame differencing
@@ -44,6 +44,6 @@ Motion events can be saved to MotionDetector_Logs.txt with timestamps if logging
 
  Support for multi-camera setup.
 
- Integrate with email/Telegram alerts
+ Integrate with email/Telegram alerts.
 
- Upload detected frames to cloud storage
+ Upload detected frames to cloud storage.

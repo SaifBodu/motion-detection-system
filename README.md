@@ -47,3 +47,5 @@ Motion events can be saved to MotionDetector_Logs.txt with timestamps if logging
  Integrate with email/Telegram alerts.
 
  Upload detected frames to cloud storage.
+
+ Android App

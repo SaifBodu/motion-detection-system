@@ -1,11 +1,11 @@
-# Motion Detection System
+# Motion Detection System: 
 
 This repository contains a motion detection system implemented in Python using computer vision techniques. The system can detect motion in a video feed or a sequence of images, making it suitable for various applications such as security, surveillance, and automation.
 
 🧠 About the Project
 The Motion Detection System is a Python-based application that uses computer vision techniques to detect motion in real-time using a webcam or video file. This project is ideal for beginners exploring OpenCV and surveillance applications, and can be used for basic home security, activity monitoring, or automation triggers.
 
-## Features
+## Features:
 
 - Motion detection using background subtraction and contour analysis.
 - Adjustable sensitivity and threshold parameters.

@@ -34,7 +34,7 @@ A real-time motion detection system using OpenCV in Python. This project capture
 
 🔔 (Optional) Alert mechanism (email, sound, etc.)
 
-⚙️ Simple and customizable Python code
+⚙️ Simple and customizable Python code.
 
 📓 Logs:
 Motion events can be saved to MotionDetector_Logs.txt with timestamps if logging is enabled.

@@ -20,7 +20,7 @@ The Motion Detection System is a Python-based application that uses computer vis
 - Imutils
 - Tkinter
 
-📷 Motion Detection System using Python:
+## 📷 Motion Detection System using Python:
 A real-time motion detection system using OpenCV in Python. This project captures video from a webcam or video file, processes it frame-by-frame, and detects any motion in the scene. When motion is detected, it can log the event, save frames, or trigger alerts.
 
 🔧 Features:
@@ -36,7 +36,7 @@ A real-time motion detection system using OpenCV in Python. This project capture
 
 ⚙️ Simple and customizable Python code.
 
-📓 Logs:
+##📓 Logs:
 Motion events can be saved to MotionDetector_Logs.txt with timestamps if logging is enabled.
 
 📌 To-Do / Future Enhancements:

@@ -40,6 +40,7 @@ A real-time motion detection system using OpenCV in Python. This project capture
 Motion events can be saved to MotionDetector_Logs.txt with timestamps if logging is enabled.
 
 📌 To-Do / Future Enhancements:
+
  Add GUI interface.
 
  Support for multi-camera setup.

@@ -48,4 +48,4 @@ Motion events can be saved to MotionDetector_Logs.txt with timestamps if logging
 
  Upload detected frames to cloud storage.
 
- Android App
+ Android App.

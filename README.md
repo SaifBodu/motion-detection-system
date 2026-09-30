@@ -17,7 +17,7 @@ The Motion Detection System is a Python-based application that uses computer vis
 
 - Python 3.x
 - OpenCV (cv2)
-- Imutils
+- Imutils.
 - Tkinter.
 
 ## 📷 Motion Detection System using Python:

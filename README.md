@@ -16,7 +16,7 @@ The Motion Detection System is a Python-based application that uses computer vis
 ## Requirements:
 
 - Python 3.x
-- OpenCV (cv2)
+- OpenCV (cv2).
 - Imutils.
 - Tkinter.
 
@@ -39,7 +39,7 @@ A real-time motion detection system using OpenCV in Python. This project capture
 ##📓 Logs:
 Motion events can be saved to MotionDetector_Logs.txt with timestamps if logging is enabled.
 
-📌 To-Do / Future Enhancements:
+##📌 To-Do / Future Enhancements:
 
  Add GUI interface.
 

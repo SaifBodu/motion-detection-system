@@ -32,7 +32,7 @@ A real-time motion detection system using OpenCV in Python. This project capture
 
 💾 Save motion-detected frames or short clips.
 
-🔔 (Optional) Alert mechanism (email, sound, etc.)
+🔔 (Optional) Alert mechanism (email, sound, etc.).
 
 ⚙️ Simple and customizable Python code.
 
